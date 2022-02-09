@@ -1,3 +1,12 @@
+# Tech Stack
+
+1. HTML
+2. CSS
+3. JavaScript
+4. Node.js
+5. Express.js
+6. PostgreSQL
+
 # Smart Brain API
 
 1. Clone this repo
