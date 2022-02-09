@@ -3,9 +3,10 @@
 1. HTML
 2. CSS
 3. JavaScript
-4. Node.js
-5. Express.js
-6. PostgreSQL
+4. React.js
+5. Node.js
+6. Express.js
+7. PostgreSQL
 
 # Smart Brain API
 
